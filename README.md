@@ -5,11 +5,12 @@ This will always be in the works. It is basically gonna be all the different Hoo
 -Nothing
 
 ### What's Next?
--NBA
--SBL (Fictional)
--WNBA
--G League
--And More!
+<ol>
+<li>NBA
+<li>SBL (Fictional)
+<li>WNBA
+<li>G League
+<li>And More!
 
 ### Instructions
 Step 1: Go to any of your desired .json files.
