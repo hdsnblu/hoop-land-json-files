@@ -4,6 +4,7 @@ This will always be in the works. It is basically gonna be all the different Hoo
 ### What We Have
 <ol>
 <li>Nothing
+</ol>
 
 ### What's Next?
 <ol>
@@ -12,6 +13,7 @@ This will always be in the works. It is basically gonna be all the different Hoo
 <li>WNBA
 <li>G League
 <li>And More!
+</ol>
 
 ### Instructions
 <ol>
@@ -23,3 +25,4 @@ This will always be in the works. It is basically gonna be all the different Hoo
 <li>Copy and paste the Dropbox link where it says "Custom League URL."
 <li>Hit "Confirm."
 <li>Click the league name and enjoy playing Hoop Land!
+</ol>
