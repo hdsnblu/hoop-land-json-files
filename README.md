@@ -15,7 +15,7 @@ This will always be in the works. It is basically gonna be all the different Hoo
 <li>And More!
 </ol>
 
-### Instructions
+### How to Install / Instructions
 <ol>
 <li>Go to any of your desired .json files.
 <li>Download the code.
